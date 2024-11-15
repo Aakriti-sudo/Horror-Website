@@ -1,0 +1,14 @@
+*{
+    background-image:url("https://i.pinimg.com/564x/80/e5/74/80e574ac3c9c8906c99a0401d5de5640.jpg") ;
+
+}
+h1{
+    color: red;
+    text-align: center;
+    border: solid red;
+}
+h2{
+    color: white;
+    text-align: center;
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+*{
+    background-image: url("https://i.pinimg.com/736x/8d/32/ac/8d32ac65b8346e67994d2511acef5b20.jpg");
+}
+
+
+h1{
+    color:aqua;
+    text-align: center;
+    border:solid aqua;
+}
+h2{
+    color:white;
+    text-align: center;
+}
